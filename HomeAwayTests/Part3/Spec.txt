@@ -1,0 +1,22 @@
+
+Question: what will happen if network disconnects while updating the profile?
+
+Question: Is there any confirmation for save profile action?
+ 
+Question: In reset password page, if user entered a password in New Password field not meeting the criteria and selects Confirm Your Password field
+Will page display a message for not matching criteria?
+
+Question: If New Password and Confirmation Password are not matching, what it should do?
+
+Question: When I deactivate my profile, what will happen? Do I need to create a new profile again in case if I want to access it?
+
+Question: If a profile is deactivated, can a CSR access it or not?
+
+Question: What are different image files that are supported for uploading the picture?
+
+Question: What are possible ways to link other accounts with profile?
+
+Question: What are all account types which can be linked to the profile?
+
+Question: What are the features for linked accounts? Can a user login with linked accounts ?
+
