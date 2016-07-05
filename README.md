@@ -10,4 +10,4 @@ Project Source Packages/Folder Structure
 
 HomeAwayTests/Part1 --> Automated test suite, have three automated tests. Based on base page object framework
 HomeAwayTests/Part2 --> contains added unit test cases and explanations related to white box testing excercise
-HomeAwayTests/Part3 --> contains questions/suggestions/expected answers for Part-3 Specification Review
+HomeAwayTests/Part3 --> contains questions for Part-3 Specification Review
